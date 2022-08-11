@@ -1,0 +1,3 @@
+DML - INSERT, UPDATE, or DELETE
+DDL - CREATE, ALTER, and DROP
+Logon triggers - LOGON 
